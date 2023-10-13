@@ -7,7 +7,7 @@
 🌱 Currently diving deep into **AE Effects & MG Animation**   
 👯 Debugging in fork: [NotionNext](https://github.com/laogou717/NotionNext)   
 🤝 Keeping an eye on: [open-interpreter](https://github.com/laogou717/open-interpreter)   
-📝 I write regularly [here](https://laogou717com)   
+📝 I write regularly [LAOGOU717.COM](https://laogou717.com)   
 📫 Reach me at: **shenfanlaogou@gmail.com**
 
 ---
@@ -19,7 +19,7 @@
 ---
 
 ### Let's Connect 🌎
-[<img align="left" alt="段枫 | Facebook" width="22px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" />][facebook]
+[<img align="left" alt="段枫 | Blibili" width="22px" src="blob:chrome-extension://dbjbempljhcmhlfpfacalomonjpalpko/968b2b06-b818-45e9-b905-00bbe3f381bb" />][facebook]
 [<img align="left" alt="神烦老狗 | YouTube" width="22px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" />][youtube]
 
 <br>
@@ -42,5 +42,5 @@
 
 ---
 
-[facebook]: https://fb.com/段枫
-[youtube]: https://www.youtube.com/c/神烦老狗
+[facebook]:https://space.bilibili.com/46377861
+[youtube]: https://www.youtube.com/channel/UCUuwwXFGK8Z3OBrq6PzkmUg
