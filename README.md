@@ -13,7 +13,7 @@
 
 - 🤝 我正在关注的项目 [open-interpreter](https://github.com/laogou717/open-interpreter)
 
-- 📝 我经常在这里撰写文章 [htps://laogou717com](htps://laogou717com)
+- 📝 我经常在这里撰写文章 [https://laogou717com](https://laogou717com)
 
 - 📫 怎么联系我 **shenfanlaogou@gmail.com**
 
