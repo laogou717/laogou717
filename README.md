@@ -19,7 +19,7 @@
 ---
 
 ### Let's Connect 🌎
-[<img align="left" alt="段枫 | Blibili" width="22px" src="blob:chrome-extension://dbjbempljhcmhlfpfacalomonjpalpko/968b2b06-b818-45e9-b905-00bbe3f381bb" />][facebook]
+[<img align="left" alt="段枫 | Blibili" width="22px" src="https://raw.githubusercontent.com/nullice/NViconsLib_Silhouette/bda7a86faad52bc09ac640b5bd8be3cb31b35193/svg/CN_bilibili_B.svg" />][facebook]
 [<img align="left" alt="神烦老狗 | YouTube" width="22px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" />][youtube]
 
 <br>
