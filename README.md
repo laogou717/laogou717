@@ -36,4 +36,4 @@
 
 ## 环境变量
 以下是首次构建必须要添加的环境变量 不写环境变量不好使
-- 'NEXT_PUBLIC_NETEASE_API_BASE' // 不知道干啥用的。没研究
+- `NEXT_PUBLIC_NETEASE_API_BASE` 
